@@ -215,7 +215,7 @@ Claude should then:
 
 **Step 4 — Ask:** "What are we working on today?"
 
-**Step 5 — End of session:** Update this STATUS.md and push directly to GitHub. The GitHub tool is session-dependent and may not always be available — if it fails, present the file for manual upload. Note: tool availability is unrelated to Max's device.
+**Step 5 — End of session:** Update this STATUS.md and push directly to GitHub. The GitHub tool is available only when Max is on desktop with MCP running — on mobile it won't be present. If unavailable, present the file for manual upload when Max is back on desktop.
 
 ---
 
@@ -256,4 +256,4 @@ Claude has no ambient awareness. The Alberta separatist movement — the origin 
 
 https://github.com/maxmaudie-design/the-unravelling
 
-STATUS.md lives here. Claude pushes updates at end of each session when the tool is available. Tool availability is session-dependent, not device-dependent.
+STATUS.md lives here. Claude pushes updates at end of each session via MCP, which runs locally on Max's desktop. On mobile, MCP is unavailable and the GitHub tool won't be present.
