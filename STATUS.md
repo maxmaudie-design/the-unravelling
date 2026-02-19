@@ -4,7 +4,7 @@
 ---
 
 ## LAST UPDATED
-February 17, 2026
+February 18, 2026
 
 ## WHAT THIS PROJECT IS
 
@@ -45,15 +45,16 @@ A long-form essay (currently ~11,200 words) tracing 4,000 years of social contra
 2. **Trudeau contrast** — "Because it's 2015" to be added as the mirror image: *purpose without policy* vs Carney's *policy without purpose*. These should be contrasted explicitly in the essay.
 
 ### 🟡 CONTENT GAPS — Flagged for development
-3. **Identity politics section** — Essay may be thin here. The key point: identity replaced geography as the organizing principle of community. V2's Section V touches this but may need more. (From Ideas file.)
+3. **Identity politics section** — Essay may be thin here. The key point: identity replaced geography as the organizing principle of community. V2's Section V touches this but may need more.
 4. **Horizontal/vertical friction sourcing** — This concept traces to Piven and Cloward. Essay should acknowledge synthesis rather than claim originality.
-5. **Canadian content** — Essay is heavily US-focused. Max's story and Alberta's story are not. Need to work in the Canadian social contract, the equalization system as a social contract mechanism, the Quebec parallel, and Alberta as a live case study. The Carney irony (man whose words appear unattributed in the essay is now PM navigating the very crisis the essay describes) is a narrative gift.
+5. **Canadian content / Alberta case study** — Essay is heavily US-focused. Alberta works as a live case study showing the horizontal/vertical friction dynamic isn't culturally specific to American racial politics. The same status-loss mechanism operates along regional and identity lines in Canada. See research notes below.
+6. **Status loss as explicit mechanism** — Currently implicit in the essay. The PsyPost study (Feb 17, 2026) and Alberta research together suggest it deserves explicit treatment in Section V, distinct from both economic grievance and pure cultural anxiety.
 
 ### 🟢 PUBLICATION INFRASTRUCTURE — When essay is clean
-6. **Launch post / methodology manifesto** — Publish THIS before the essay. Establishes credibility and honesty upfront. The Carney story is the centrepiece: proof that the collaboration is being done honestly. Roughly 500–1,000 words.
-7. **Director's commentary** — See full template below. Accompanies each serialized section.
-8. **Mutual interviews** — Max interviews Claude about AI limitations and role; Claude interviews Max about the journey from trolling separatists to understanding their grievances. Companion content to the serialization, not a separate project.
-9. **Reading list verification** — Already drafted in V2. Verify all titles, authors, and publication details before publication.
+7. **Launch post / methodology manifesto** — Publish THIS before the essay. ~500–1,000 words. Carney story is the centrepiece.
+8. **Director's commentary** — See template below. Accompanies each serialized section.
+9. **Mutual interviews** — Max interviews Claude; Claude interviews Max. Companion content, not a separate project.
+10. **Reading list verification** — Already drafted in V2. Verify all titles before publication.
 
 ---
 
@@ -61,13 +62,13 @@ A long-form essay (currently ~11,200 words) tracing 4,000 years of social contra
 
 ### Phase 1: Clean the Essay
 - Attribution audit (Carney fixed; check for anything else)
-- Content gaps addressed (identity politics, Piven/Cloward credit, Canadian content)
+- Content gaps addressed (identity politics, Piven/Cloward credit, Canadian content, status loss)
 - Final fact-check on all statistics
 
 ### Phase 2: Build the Frame
 - Write the methodology manifesto (launch post)
-- Draft the "How to Read This" introduction for the essay itself
-- Prepare director's commentary for each section using the template below
+- Draft the "How to Read This" introduction
+- Prepare director's commentary for each section
 
 ### Phase 3: Launch
 - Publish methodology manifesto first
@@ -78,13 +79,9 @@ A long-form essay (currently ~11,200 words) tracing 4,000 years of social contra
 ### 🔲 Possible Editorial Angle — The Alberta Hook
 "A former Alberta journalist uses 4,000 years of history to understand why his neighbours want to leave Canada."
 
-This framing does several things at once: it gives the essay journalistic urgency (this is happening *now*, Max is inside it), it establishes a different kind of authority than academic expertise (skin in the game, not comfortable remove), and it makes the abstract thesis concrete and human. Consider whether this angle becomes more prominent inside the essay itself — not just in the Substack wrapper — and whether the Alberta separatism movement gets named explicitly as the live case study that prompted the whole project.
-
 ---
 
 ## DIRECTOR'S COMMENTARY TEMPLATE
-
-Each Substack installment should follow this format:
 
 ```
 THE UNRAVELLING — Section [X]: [Title]
@@ -102,19 +99,18 @@ DIRECTOR'S NOTES
 • Honest Mistakes Caught: [Errors found and corrected — Carney is the model here]
 ```
 
-The Carney moment is the proof-of-concept for this entire approach. It demonstrates that the collaboration is being done honestly — and it gets more interesting, not less, when mistakes are acknowledged openly.
-
 ---
 
 ## KEY INTELLECTUAL DECISIONS MADE
 
-- **Horizontal/vertical friction** is the central analytical framework. Credited to Piven and Cloward as prior scholars; essay presents synthesis, not original discovery.
+- **Horizontal/vertical friction** is the central analytical framework. Credited to Piven and Cloward; essay presents synthesis, not original discovery.
 - **Scope caveat** is explicit: Western-centric, acknowledged as such.
-- **Methodology** prioritizes empirical data over narrative. Statistics are used to "read the machine," not assign partisan blame.
+- **Methodology** prioritizes empirical data over narrative.
 - **Nostalgia narrative** is explicitly rejected on both left and right versions.
 - **Four futures** framework: techno-feudalism, authoritarian consolidation, new social contract, long muddle.
 - Essay resists calling for "restoration" of postwar bargain — its exclusions were features, not bugs.
-- **Credit model settled:** "Directed by Max Maudie" — the symphony conductor framing. Not author, not co-author, director.
+- **Credit model settled:** "Directed by Max Maudie" — the symphony conductor framing.
+- **Status loss as distinct mechanism** — neither pure economic grievance nor pure cultural anxiety, but perceived relative decline in standing. Documented in both US (racial hierarchy) and Alberta (regional hierarchy) contexts. Should be made explicit in Section V.
 
 ---
 
@@ -126,7 +122,7 @@ The Carney moment is the proof-of-concept for this entire approach. It demonstra
 - Branko Milanovic — elephant chart, *Global Inequality*
 - Anne Case & Angus Deaton — deaths of despair
 - Robert Putnam, *Bowling Alone* — civic collapse
-- Bill Bishop, *The Big Sort* — geographic/ideological sorting; landslide county data
+- Bill Bishop, *The Big Sort* — geographic/ideological sorting
 - Douglas Rushkoff, *Survival of the Richest* — elite secession psychology
 - Yanis Varoufakis, *Technofeudalism* — platform feudalism
 - Gabriel Zucman — offshore wealth estimates
@@ -134,30 +130,51 @@ The Carney moment is the proof-of-concept for this entire approach. It demonstra
 - Shoshana Zuboff, *The Age of Surveillance Capitalism*
 - Cass Sunstein — echo chambers and group polarization
 
-**Sources flagged in Ideas file (not yet integrated):**
-- Rushkoff and Varoufakis already in V2 ✓
-- Putnam already in V2 ✓
-- Milanovic already in V2 ✓
+**New sources identified Feb 18, 2026 session (not yet integrated into V2):**
+
+- **Cooley, Brown-Iannuzzi et al.** (2026), "White Americans' feelings of being 'last place'..." *Advances in Psychology*. Peer-reviewed, longitudinal, census-weighted (n=506, 5 waves). Key finding: perceived racial status position — not objective income or education — predicts Trump support. ~15% of sample fit "last place (tied with Black Americans)" profile. Directly supports Section V's horizontal friction argument with fresh empirical data. DOI: 10.56296/aip00046
+
+- **Jared Wesley**, commissioned paper for Public Order Emergency Commission — traces Alberta separatism and Freedom Convoy to "status loss, political tribalism, and the death of deference to traditional forms of authority." Explicitly names status loss. Also references: Snagovsky, Maroto & Wesley, "White Identity and Western Alienation in Alberta" (2022).
+
+- **Tamara Krawchenko**, The Conversation (Feb 15, 2026) — "As Alberta separatists court the U.S., prosperity is fuelling a sovereigntist turn." Key line: Alberta's anger "stems from believing it matters a great deal and is nonetheless disrespected." Under-recognized importance, not marginality. Three-way collision: cultivated grievance politics + self-inflicted fiscal vulnerability + energy transition threatening regional identity.
+
+- **Maclean's**, "Alberta's New Separatists" (2025) — Alberta median family incomes were 30% above national average before 2014 oil crash, now only 15% above. Still richer, but the gap narrowed. Perceived falling = political fuel.
+
+- **Common Ground / Samuel Goertz** focus group research (2025) — 21 focus groups, ~200 Albertans. "Joe" (composite typical Albertan) feels disrespected by Ontario, Quebec, Vancouver. Not poorer — disrespected. Separatism used as leverage ("Quebec Playbook"), not genuine desire to leave.
+
+---
+
+## RESEARCH NOTES: STATUS LOSS — US AND ALBERTA PARALLEL
+
+**The core paradox in Alberta:** Objectively Canada's wealthiest province. Yet hosts Canada's most intense separatist movement. Diagnostic of status grievance, not economic grievance.
+
+**The parallel mechanism:**
+- US: White Americans who *perceive* themselves tied with Black Americans at the bottom of the racial hierarchy (not the actually poorest) are most likely to support Trump.
+- Alberta: Province still richer than rest of Canada, but gap has narrowed since 2014. Experienced as falling. Grievance = under-recognized importance — "we carry the country and are treated as subordinates."
+
+**The equalization mechanism:** Alberta sends money to Ottawa for redistribution. Experienced as being drained. Key status claim: western interests are treated as "regional" while central Canadian interests are treated as "national."
+
+**The identity dimension:** Oil isn't just an industry — it's Alberta's self-image. Federal decarbonization = "your identity is a problem to be managed." Status threat becomes existential.
+
+**The portable mechanism:** PsyPost study shows status-threat → horizontal anger operating along racial lines in the US. Alberta shows same mechanism along regional/identity lines in Canada. Different vocabulary, same underlying psychology. The horizontal/vertical friction dynamic is not culturally specific — it attaches to whatever hierarchy is locally salient.
+
+**Essay implication:** Alberta as Canadian case study demonstrating the pattern's portability. Max's personal position inside it gives it journalistic force.
 
 ---
 
 ## PERSONAL NARRATIVE FRAME
 
-Max began this project after unproductively arguing with Alberta separatists online using a burner Facebook account. The project became a way to understand *why* societies fracture — and ended up changing how he sees those neighbours. The essay's intellectual argument (horizontal vs. vertical friction) mirrors his personal journey: from horizontal friction (trolling separatists) to vertical analysis (examining power structures).
+Max began this project after unproductively arguing with Alberta separatists online using a burner Facebook account. The essay's intellectual argument (horizontal vs. vertical friction) mirrors his personal journey: from horizontal friction (trolling separatists) to vertical analysis (examining power structures).
 
-This transformation is the spine of the Substack framing. The personal story and the intellectual argument are the same story told at different scales.
-
-**The crucial context:** Max is not writing about separatism and social contract collapse as history. He is living inside an active separatist movement in real time. Alberta in 2025–2026 is a live case study of everything the essay describes — a province with genuine economic grievances (oil revenues, equalization payments, federal overreach) whose anger has been directed horizontally (at Ottawa, at central Canada, at Trudeau, at "elites") rather than vertically at the structural forces actually responsible. The essay's thesis is not abstract from where Max sits. It is the news.
-
-This gives the project a journalistic urgency that pure historical analysis wouldn't have. Max isn't observing the unravelling from a distance. He's embedded in one of its most vivid current expressions. That position — former journalist, living inside the story, trying to understand rather than dismiss his neighbours — is a significant part of what makes this worth reading.
+**The crucial context:** Max is living inside an active separatist movement in real time. Alberta in 2025–2026 is a live case study — a province with genuine economic grievances whose anger has been directed horizontally (at Ottawa, Central Canada, Trudeau) rather than vertically at the structural forces actually responsible.
 
 ---
 
 ## A NOTE ON AI COLLABORATION HONESTY
 
-A pivotal moment in this project: Max identified a quote in the essay as "too good to be original." It was from Mark Carney. This led to tracing the horizontal/vertical friction concept back to Piven and Cloward — acknowledging synthesis rather than original theory. When Max tested Claude's knowledge against another AI's claims about *Poor People's Movements*, Claude expressed appropriate uncertainty while the other AI provided confident but inaccurate details. Max uploaded the actual text — Claude's caution was vindicated.
+A pivotal moment: Max identified a quote in the essay as "too good to be original." It was from Mark Carney. This led to tracing the horizontal/vertical friction concept back to Piven and Cloward. When Max tested Claude's knowledge against another AI's claims about *Poor People's Movements*, Claude expressed appropriate uncertainty while the other AI provided confident but inaccurate details. Max uploaded the actual text — Claude's caution was vindicated.
 
-These moments are not embarrassments. They are the methodology. They get documented in the director's notes.
+These moments are not embarrassments. They are the methodology.
 
 ---
 
@@ -167,20 +184,20 @@ Max opens each session by saying: **"Check the status doc."**
 
 Claude should then:
 
-**Step 1 — Read this document fully** by fetching it from GitHub: https://github.com/maxmaudie-design/the-unravelling/blob/main/STATUS.md. Reconstruct the project context before doing anything else.
+**Step 1 — Read this document fully.** Reconstruct the project context before doing anything else.
 
 **Step 2 — Run a quick news scan** on the following topics, in this order:
 1. **Alberta separatism** — petition progress, referendum developments, Danielle Smith, Alberta Prosperity Project, Canadian unity
 2. **Canadian-US relations** — tariffs, annexation rhetoric, sovereignty, Carney vs. Trump
-3. **Vertical friction emerging globally** — any signs of anger turning upward at power structures rather than horizontally at other groups (elections, strikes, protests, policy shifts)
+3. **Vertical friction emerging globally** — any signs of anger turning upward at power structures rather than horizontally at other groups
 4. **US political economy** — inequality, institutional collapse, populism, anything directly relevant to the essay's themes
 5. **Anything else in the news** that connects to the essay's core argument
 
-**Step 3 — Brief Max on what's new** before asking what the session's task is. Claude cannot carry ambient awareness between sessions. This news scan is how we compensate for that limitation.
+**Step 3 — Brief Max on what's new** before asking what the session's task is.
 
 **Step 4 — Ask:** "What are we working on today?"
 
-**Step 5 — End of session:** Push updated STATUS.md back to GitHub.
+**Step 5 — End of session:** Update this STATUS.md and push to GitHub (or hand to Max for upload if on mobile).
 
 ---
 
@@ -193,34 +210,32 @@ Claude should then:
 ### 🔲 The Billionaire Thriller
 *Fictional concept — keep separate from the essay*
 
-A thriller premise seeded in the Ideas file: a serial killer is targeting billionaires. The dramatic tension isn't the killer — it's the investigator, who is institutionally obligated to protect the victim class but privately recognizes that the victims built the system the essay diagnoses. Possible angles: the investigator comes from the rust belt or a hollowed-out community; the killer turns out to be acting on the essay's own logic; the investigator must decide what justice actually means in that context.
-
-This is a way to dramatize the essay's central argument in narrative form. Could work as a standalone fiction project or a companion piece to the Substack. Flag for later — don't conflate with the essay itself.
+A serial killer targeting billionaires. Dramatic tension: the investigator, institutionally obligated to protect the victim class, privately recognizes the victims built the system the essay diagnoses. Could dramatize the essay's central argument in narrative form. Flag for later.
 
 ---
 
 ## INTELLECTUAL LINEAGE — HORIZONTAL/VERTICAL FRICTION
 
-The essay's central framework is a synthesis, not an original discovery. Full lineage:
+- **Piven & Cloward, *Poor People's Movements* (1977)** — primary citation
+- **Labour organizing tradition** — "don't let the bosses divide us"
+- **Marxist theory of false consciousness** — horizontal misdirection as feature of capitalist ideology
+- **"Divide and conquer"** — ancient political strategy
+- **Lateral oppression literature** — anti-racism and decolonization scholarship
 
-- **Piven & Cloward, *Poor People's Movements* (1977)** — closest scholarly precedent; empirically demonstrates when movements succeed (disruptive vertical pressure on elites) vs. fail (fragmentation, institutionalization, horizontal dissipation)
-- **Labour organizing tradition** — "don't let the bosses divide us"; the idea that worker solidarity requires resisting horizontal conflict (race, craft, region) is as old as the labour movement itself
-- **Marxist theory of false consciousness** — the idea that the working class is manipulated into identifying with ideological constructs (nationalism, religion, race) rather than their material class interests; horizontal misdirection as a feature of capitalist ideology
-- **"Divide and conquer"** — ancient political strategy; documented from Roman military practice onward; the structural version of what the essay describes
-- **Lateral oppression literature** — from anti-racism and decolonization scholarship; describes how oppressed groups internalize and reproduce oppression horizontally against each other rather than directing anger at the source
-
-The essay should explicitly acknowledge this lineage rather than presenting the framework as novel. Piven & Cloward are the primary citation. The synthesis across these traditions is the contribution — not the underlying observation.
+The synthesis across these traditions is the contribution — not the underlying observation.
 
 ---
 
 ## A FUNDAMENTAL LIMITATION OF THIS COLLABORATION
 
-Claude has no ambient awareness. A human collaborator — especially a journalist — brings context that seeps into the work without anyone explicitly importing it. They notice things without being told to notice them. Their lived situation is always present.
+Claude has no ambient awareness. The Alberta separatist movement — the origin story of this entire project — was invisible until Max mentioned it. Max is not just the director in the symphony conductor sense. He is also the one who carries the ambient context — the world outside the window — and decides what to bring through the door.
 
-Claude cannot do this. It has no awareness of anything outside what is placed in front of it in a given conversation. The Alberta separatist movement — the origin story of this entire project — was invisible until Max mentioned it. Not because of poor search habits, but because Claude cannot notice what it hasn't been directed to notice.
+**For the methodology manifesto:** This belongs prominently, not as a caveat but as a central truth about what human-AI collaboration actually is.
 
-This means Max is not just the director in the symphony conductor sense. He is also the one who carries the ambient context — the world outside the window — and decides what to bring through the door. Claude can do a great deal with what it's given. It cannot reach for what it doesn't know is there.
+---
 
-**Practical implication:** At the start of each session, consider what has happened in the world — particularly in Alberta and Canadian politics — that Claude won't know about. That context needs to be explicitly imported.
+## GITHUB REPOSITORY
 
-**For the methodology manifesto:** This belongs prominently, not as a caveat but as a central truth about what human-AI collaboration actually is. The human must carry the ambient world. The AI cannot.
+https://github.com/maxmaudie-design/the-unravelling
+
+STATUS.md lives here. Claude updates at end of each session and pushes — or hands file to Max for upload if on mobile.
