@@ -48,7 +48,7 @@ A long-form essay (currently ~11,200 words) tracing 4,000 years of social contra
 3. **Identity politics section** — Essay may be thin here. The key point: identity replaced geography as the organizing principle of community. V2's Section V touches this but may need more.
 4. **Horizontal/vertical friction sourcing** — This concept traces to Piven and Cloward. Essay should acknowledge synthesis rather than claim originality.
 5. **Canadian content / Alberta case study** — Essay is heavily US-focused. Alberta works as a live case study showing the horizontal/vertical friction dynamic isn't culturally specific to American racial politics. The same status-loss mechanism operates along regional and identity lines in Canada. See research notes below.
-6. **Status loss as explicit mechanism** — Currently implicit in the essay. The PsyPost study (Feb 17, 2026) and Alberta research together suggest it deserves explicit treatment in Section V, distinct from both economic grievance and pure cultural anxiety.
+6. **Status loss as explicit mechanism** — Currently implicit in the essay. The PsyPost study (Feb 18, 2026) and Alberta research together suggest it deserves explicit treatment in Section V, distinct from both economic grievance and pure cultural anxiety.
 
 ### 🟢 PUBLICATION INFRASTRUCTURE — When essay is clean
 7. **Launch post / methodology manifesto** — Publish THIS before the essay. ~500–1,000 words. Carney story is the centrepiece.
@@ -111,6 +111,7 @@ DIRECTOR'S NOTES
 - Essay resists calling for "restoration" of postwar bargain — its exclusions were features, not bugs.
 - **Credit model settled:** "Directed by Max Maudie" — the symphony conductor framing.
 - **Status loss as distinct mechanism** — neither pure economic grievance nor pure cultural anxiety, but perceived relative decline in standing. Documented in both US (racial hierarchy) and Alberta (regional hierarchy) contexts. Should be made explicit in Section V.
+- **Wesley's "Western Alienation 2.0" framing** — current separatism is qualitatively different from historical western alienation. Old version: held back. New version: falling behind, needing to restore previous status. This distinction is central to the status loss argument.
 
 ---
 
@@ -134,9 +135,16 @@ DIRECTOR'S NOTES
 
 - **Cooley, Brown-Iannuzzi et al.** (2026), "White Americans' feelings of being 'last place'..." *Advances in Psychology*. Peer-reviewed, longitudinal, census-weighted (n=506, 5 waves). Key finding: perceived racial status position — not objective income or education — predicts Trump support. ~15% of sample fit "last place (tied with Black Americans)" profile. Directly supports Section V's horizontal friction argument with fresh empirical data. DOI: 10.56296/aip00046
 
-- **Jared Wesley**, commissioned paper for Public Order Emergency Commission — traces Alberta separatism and Freedom Convoy to "status loss, political tribalism, and the death of deference to traditional forms of authority." Explicitly names status loss. Also references: Snagovsky, Maroto & Wesley, "White Identity and Western Alienation in Alberta" (2022).
+- **Jared Wesley** (University of Alberta, Professor of Political Science) — the central academic figure on Alberta separatism and western alienation. Multiple relevant works:
+  - Commissioned paper for Public Order Emergency Commission — traces Alberta separatism and Freedom Convoy to "status loss, political tribalism, and the death of deference to traditional forms of authority."
+  - "Western Alienation 2.0" (Substack, March 2025) — defines the qualitative shift: old alienation = held back; new alienation = falling behind, needing to restore previous status. Names three converging forces: industries recast as relics; Indigenous rights assertions challenging settler identity; DEI/multiculturalism experienced as threats to moral standing.
+  - "Populism, Sovereignty, and Democracy in Alberta" (Substack, recent) — connects Alberta separatism to global right-wing populism, not just Canadian regional grievance.
+  - Viewpoint Alberta surveys (with Berdahl, Young, Maroto, Snagovsky et al.) — longitudinal survey data on western alienation. Key finding: over 50% of Albertans now believe "the province's best days are behind it" — historically unprecedented. Wesley: "signals that this new round of western alienation is different than it has been in the past."
+  - Snagovsky, Maroto & Wesley, "White Identity and Western Alienation in Alberta" (2022, PPSA) — working paper on racial dimensions of western alienation.
+  - Wesley runs the **Common Ground** initiative at U of A, which produced the Goertz focus group research.
+  - **Wesley's Substack:** https://drjaredwesley.substack.com — active, worth monitoring.
 
-- **Tamara Krawchenko**, The Conversation (Feb 15, 2026) — "As Alberta separatists court the U.S., prosperity is fuelling a sovereigntist turn." Key line: Alberta's anger "stems from believing it matters a great deal and is nonetheless disrespected." Under-recognized importance, not marginality. Three-way collision: cultivated grievance politics + self-inflicted fiscal vulnerability + energy transition threatening regional identity.
+- **Tamara Krawchenko**, The Conversation (Feb 15, 2026) — "As Alberta separatists court the U.S., prosperity is fuelling a sovereigntist turn." Key line: Alberta's anger "stems from believing it matters a great deal and is nonetheless disrespected." Three-way collision: cultivated grievance politics + self-inflicted fiscal vulnerability + energy transition threatening regional identity.
 
 - **Maclean's**, "Alberta's New Separatists" (2025) — Alberta median family incomes were 30% above national average before 2014 oil crash, now only 15% above. Still richer, but the gap narrowed. Perceived falling = political fuel.
 
@@ -148,17 +156,27 @@ DIRECTOR'S NOTES
 
 **The core paradox in Alberta:** Objectively Canada's wealthiest province. Yet hosts Canada's most intense separatist movement. Diagnostic of status grievance, not economic grievance.
 
-**The parallel mechanism:**
-- US: White Americans who *perceive* themselves tied with Black Americans at the bottom of the racial hierarchy (not the actually poorest) are most likely to support Trump.
-- Alberta: Province still richer than rest of Canada, but gap has narrowed since 2014. Experienced as falling. Grievance = under-recognized importance — "we carry the country and are treated as subordinates."
+**Wesley's key distinction — "Western Alienation 2.0":**
+- Old western alienation: Alberta feels *held back* from reaching its potential. Underlying optimism intact.
+- New western alienation: Alberta feels it is *falling behind* and needs to *restore* its previous status. Optimism gone — majority now believe the province's best days are behind it.
+- This shift from "held back" to "falling behind" is the moment the grievance turns existential. It's also the moment horizontal anger intensifies.
 
-**The equalization mechanism:** Alberta sends money to Ottawa for redistribution. Experienced as being drained. Key status claim: western interests are treated as "regional" while central Canadian interests are treated as "national."
+**The three-way identity erosion (Wesley):**
+1. Industries that built the West recast as relics and environmental problems — not just economic threat but moral delegitimisation
+2. Indigenous rights assertions challenge the settler identity underlying western alienation
+3. DEI and multiculturalism experienced as threats to what it means to be honourable
 
-**The identity dimension:** Oil isn't just an industry — it's Alberta's self-image. Federal decarbonization = "your identity is a problem to be managed." Status threat becomes existential.
+This is status loss operating at the level of *moral* standing, not just economic standing.
 
-**The portable mechanism:** PsyPost study shows status-threat → horizontal anger operating along racial lines in the US. Alberta shows same mechanism along regional/identity lines in Canada. Different vocabulary, same underlying psychology. The horizontal/vertical friction dynamic is not culturally specific — it attaches to whatever hierarchy is locally salient.
+**The parallel mechanism (US vs Alberta):**
+- US (Cooley et al.): White Americans who *perceive* themselves tied with Black Americans at the bottom of the racial hierarchy — not the actually poorest — are most likely to support Trump.
+- Alberta (Wesley/Viewpoint): Province still richer than rest of Canada, but gap has narrowed. Majority now feel best days are behind them. Grievance = under-recognized importance; "we carry the country and are treated as subordinates."
 
-**Essay implication:** Alberta as Canadian case study demonstrating the pattern's portability. Max's personal position inside it gives it journalistic force.
+**The portable mechanism:** Same psychology, different vocabulary. In the US, status hierarchy is racial. In Alberta, it's regional and industrial. The horizontal/vertical friction dynamic attaches to whatever hierarchy is locally salient. This is not American exceptionalism — it's a recurring human response to perceived status decline.
+
+**Wesley's populism lens:** Alberta separatism must be understood as part of the *global* rise of right-wing populism, not just a Canadian regional story. The UCP's party structure (PC + Wildrose merger) created the vehicle. The "illegitimate order out to get real Albertans" framing is the same authoritarian populist grammar as Trump, Brexit, Bolsonaro.
+
+**Essay implication:** Wesley is cite-by-name material, not just a footnote source. He bridges empirical data, historical analysis, and real-time commentary. He's at U of A — local credibility. His "Western Alienation 2.0" framing could structure how Alberta is introduced in the essay.
 
 ---
 
@@ -197,7 +215,7 @@ Claude should then:
 
 **Step 4 — Ask:** "What are we working on today?"
 
-**Step 5 — End of session:** Update this STATUS.md and push to GitHub (or hand to Max for upload if on mobile).
+**Step 5 — End of session:** Update this STATUS.md and push directly to GitHub. The GitHub tool is session-dependent and may not always be available — if it fails, present the file for manual upload. Note: tool availability is unrelated to Max's device.
 
 ---
 
@@ -238,4 +256,4 @@ Claude has no ambient awareness. The Alberta separatist movement — the origin 
 
 https://github.com/maxmaudie-design/the-unravelling
 
-STATUS.md lives here. Claude updates at end of each session and pushes — or hands file to Max for upload if on mobile.
+STATUS.md lives here. Claude pushes updates at end of each session when the tool is available. Tool availability is session-dependent, not device-dependent.
